@@ -1,4 +1,4 @@
-# Magikoopa
+# Magikoopa NSMB2 Examples
 
 Examples for using Magikoopa (https://github.com/RicBent/Magikoopa/) together with New Super Mario Bros. 2 to get full custom code.
 
