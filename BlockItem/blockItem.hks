@@ -1,0 +1,6 @@
+BlockBase__SetItem:             # This label does not really matter and can be basically anything
+    type:   branch              # We want to branch to our custom function
+    link:   false               # We do not want to modify the Link Register as we want to be able to jump the the calling function
+    addr:   0x002DDB34          # The address of the function we want to replace
+    func:   BlockSetItem()      # Name of the function we want to jump to
+                                # Remember that the function name is mangled if it was defined in a C++ source

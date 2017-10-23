@@ -1,0 +1,12 @@
+*.o
+*.d
+*.x
+*.sym
+*.map
+
+*.directory
+
+
+# Stuff that should never end up online
+code.bin
+exheader.bin
