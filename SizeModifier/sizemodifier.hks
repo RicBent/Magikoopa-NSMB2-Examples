@@ -1,0 +1,11 @@
+ModifyGlobalSizes:
+    type:   branch
+    link:   false
+    addr:   0x00430988
+    func:   ModifyGlobalSizes_LoadAsm
+
+ModifyGlobalCollision:
+    type:   branch
+    link:   false
+    addr:   0x004366C4
+    func:   initActivePhysicsWithStruct
